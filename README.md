@@ -2,7 +2,7 @@
 
 I'm Victor Vinícius, a Web Developer Fullstack and graduating in Electrical Engineering. I've always been a hardware enthusiast, and now i'm venturing into software.
 
-🕹 A huge retro games fan, 🎶 Metal bassist in a band and Bossa Nova lover (I like to play it on my guitar, every now and then).
+🕹 A huge retro games fan, 🎶 Metal fan and Bossa Nova lover (I like to play it on my guitar, every now and then).
 
 I'm living in Recife PE, in Brazil. I've finished a Fullstack Software Developer course at Cubos Academy 👨‍💻, and i'm doing a degree in Electrical Engineering at UFPE 👨‍🎓. I'm currently looking for my first job in the Web Development field.
 
