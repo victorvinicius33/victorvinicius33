@@ -30,9 +30,10 @@ I'm living in Recife PE, in Brazil. I've finished a Fullstack Software Developer
 - Front-end development using HTML5, CSS3, Typescript, ReactJs.
 - Back-end development using Node.Js, Typescript, PostgreSQL and Mongodb.
 - Knowledge in CRUD SQL with Relational and No Relacional Database, and REST API.
-- SOLID
+- SOLID.
 - Knowledge in Material Design and HTML DOM.
-- TDD with Jest, Husky, Prettier and Eslint
+- TDD with Jest, Husky, Prettier and Eslint.
+- Deploy with Netlify and Heroku. 
 
 --------
 
